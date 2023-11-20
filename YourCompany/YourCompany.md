@@ -1,5 +1,4 @@
 ---
-layout: company
 title: "YourCompany Pty Ltd"    <!-- Change to your company name -->
 image: "YourCompany.png"        <!-- Same as what is in the directory -->
 product_categories:             <!-- Remove if you don't offer any products -->
@@ -14,6 +13,7 @@ services:                     <!-- Remove if you don't offer any services -->
 - Category A
 - Category B
 - Category C
+layout: company
 ---
 
 # YourCompany Pty Ltd

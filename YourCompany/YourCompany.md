@@ -20,9 +20,8 @@ social-media-twitter:
 social-media-linkedin: 
 social-media-youtube: 
 social-media-github: 
+social-media-facebook: 
 ---
-
-# YourCompany Pty Ltd
 
 <img src="/assets/logos/YourCompany.png" width="200" />
 

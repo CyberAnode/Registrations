@@ -16,6 +16,7 @@ Categories were last updated on November 22, 2023.
 | Managed Detection and Response              | Continuous monitoring, threat detection and response services to enhance overall security posture.               |
 | Managed Security Services                   | Comprehensive security services including managed detection and response, ensuring continuous threat monitoring and incident response. |
 | Penetration Testing                        | Ethical hacking to identify vulnerabilities in systems, networks, and applications before malicious actors can exploit them. |
+| Recruitment Services                        | organisations specialising in the placement of individuals in cyber secureity roles and organisations.        |
 | Secure Software Development                | Practices and tools focused on integrating security into the software development lifecycle.                       |
 | Security Assurance Services                | Assurance services to validate and enhance the security posture of organisations through testing and evaluation.    |
 | Security Consulting                        | Advisory services to help organisations develop and implement effective cyber security strategies.                |

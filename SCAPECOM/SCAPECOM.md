@@ -10,7 +10,7 @@ social-media-email: hello@attackify.com
 social-media-twitter: https://twitter.com/attackify
 social-media-linkedin: https://www.linkedin.com/company/scapecom/
 social-media-youtube: https://www.youtube.com/@attackify2934
-social-media-github: 
+social-media-github: https://github.com/scapecom
 social-media-facebook: 
 ---
 
@@ -38,6 +38,6 @@ Whether you're a small business owner or a large enterprise, we believe that eve
 So if you're looking for a powerful and reliable way to improve your cybersecurity posture, look no further than ATTACKIFY. With our team of experienced researchers and cutting-edge platform, you’ll have everything you need to stay ahead of the curve and keep your systems safe and secure.
 
 ## Our products
-### [Product A](https://www.attackify.com)
+### [ATTACKIFY](https://www.attackify.com)
 
 ATTACKIFY is an easy to use and affordable online BREACH & ATTACK simulation platform, primarily a cloud-based solution to run and manage attack simulation modules, security audits and phishing simulations with remote endpoint agents safely inside your environments.

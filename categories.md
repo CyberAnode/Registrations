@@ -33,6 +33,7 @@ Categories were last updated on November 22, 2023.
 | Antivirus & Anti-malware Solutions       | Products that protect systems from viruses, malware and other malicious software.                                |
 | Application Security                       | Tools focused on securing software applications by identifying and fixing vulnerabilities.                        |
 | Backup and Disaster Recovery Solutions      | Products ensuring data backup and recovery in case of cyber incidents or disasters.                                |
+| Breach & Attack Simulation Solutions     | Solutions designed to emulate attacker Tactics, Techniques, and Procedures (TTPs) to test and improve an organisation's cybersecurity defenses |
 | Cloud Security Solutions                    | Products designed to secure data, applications and infrastructure in cloud environments.                          |
 | Data Loss Prevention                      | Solutions aimed at preventing unauthorised access, use, or transmission of sensitive data.                         |
 | Encryption Products                        | Tools that encrypt data to protect it from unauthorised access or disclosure.                                     |

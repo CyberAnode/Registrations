@@ -15,7 +15,7 @@ linkedin: https://au.linkedin.com/company/zerosource
 gitlab: https://gitlab.com/zerosource
 github: https://github.com/zerosource-io
 website: https://zerosource.io
-image: "!https://www.zerosource.io/wp-content/uploads/elementor/thumbs/logo-white1-q2rtnjsestmhb7ure383nsvrnkz2s04hdl1gjovkzk.png"
+image: "/assets/images/company_logos/Zerosource.png"
 ---
 
 ## Who we are                     

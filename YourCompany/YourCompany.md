@@ -1,27 +1,37 @@
 ---
 title: "YourCompany Pty Ltd"    <!-- Change to your company name -->
+<!-- Australia and/or New Zealand -->
+Country1: 
+Address1:
+Country2:
+Address2:
 headquarters:                   <!-- NSW, VIC, TAS etc, just one -->
-product_categories:             <!-- Remove if you don't offer any products -->
+products:             <!-- Remove if you don't offer any products -->
 - Category A
 - Category B
 - Category C
-reseller:                       <!-- Remove if you aren't a reseller or partner -->
-- Company A
-- Company B
-- Company C
 services:                     <!-- Remove if you don't offer any services -->
 - Category A
 - Category B
 - Category C
+partners:                       <!-- Remove if you aren't a reseller or partner -->
+- Company A
+- Company B
+- Company C
 
+<!-- Social media usernames (no need to add the link) -->
+<!-- Required -->
 email: 
-twitter: 
-linkedin: 
-youtube: 
-github: 
-facebook: 
 website: 
-address: 
+linkedin: 
+<!-- Optional -->
+X: 
+youtube: 
+github:
+gitlab:
+facebook: 
+instagram: 
+
 image: "/assets/images/company_logos/<xx>.png"
 ---
 
